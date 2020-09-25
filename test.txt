@@ -1,1 +1,1 @@
-"Hola esta es una prueba para git desde la consola"
+"Hola esta es una prueba para git en la primer rama"
